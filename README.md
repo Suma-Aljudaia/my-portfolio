@@ -16,10 +16,7 @@ Built with **HTML + CSS + JavaScript**, showcasing my profile, skills, certifica
 - A short bio about me
 - Contact info (Email & LinkedIn)
 - Downloadable CV
-- Certifications:
-  - IBM: Artificial Intelligence Fundamentals
-  - Coursera: Introduction to AI & Data
+- Certifications
 
----
 
 > Thank you for visiting! Feel free to reach out with any feedback 💌
